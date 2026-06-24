@@ -25,10 +25,8 @@ chmod +x appimage-desktop.sh
 
 If no icon is found, the entry is still created — just without an `Icon=` field.
 
-## Requirements
 
-- Bash
-- A Type 2 AppImage (anything made after ~2017 should be fine)
+Needs to be a Type 2 AppImage (anything made after ~2017 should be fine)
 
 ## Output locations
 
